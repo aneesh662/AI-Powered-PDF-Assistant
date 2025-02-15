@@ -2,7 +2,7 @@
 # Project Overview
 A cutting-edge AI application designed to transform document analysis and content retrieval by harnessing the capabilities of Large Language Models (LLMs), Python libraries, and API integration.
 
-![AI Document Analysis](https://via.placeholder.com/800x400.png?text=AI+Document+Analysis)
+![AI Document Analysis](aidocument.jpg)
 
 ## Key Features
 - Seamless PDF upload and automatic extraction of textual content.
